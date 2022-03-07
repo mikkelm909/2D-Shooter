@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2d3c90d2893220488859f1abd528803, type: 3}
+  m_Name: AssaultRifelWeaponlData
+  m_EditorClassIdentifier: 
+  <BulletData>k__BackingField: {fileID: 11400000, guid: be8a32bffeab7a9449dceb04463d616f, type: 2}
+  <AmmoCapacity>k__BackingField: 100
+  <AutomaticFire>k__BackingField: 1
+  <WeaponDelay>k__BackingField: 0.1
+  <SpreadAngel>k__BackingField: 0.32
+  multiBulletShoot: 1
+  bulletCount: 1
